@@ -1,6 +1,8 @@
-# Hyde
+# Open The Debate
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+The **Open The Debate** site is based on [Poole](http://getpoole.com) and it's [Hyde](https://github.com/poole/hyde) theme.
+
+This README is just a copy of the [Hyde](https://github.com/poole/hyde) project README. 
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
@@ -102,13 +104,6 @@ Hyde has two branches, but only one is used for active development.
 
 - `master` for development.  **All pull requests should be submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
 
 
 ## License
